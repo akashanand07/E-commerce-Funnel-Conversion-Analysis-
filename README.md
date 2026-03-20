@@ -58,7 +58,7 @@ E-commerce platforms often experience high traffic but low conversions. This pro
 
 ## 📊 Dashboard Preview
 
-![Dashboard](powerbi/E-commerce Analysis.png)
+![Dashboard](powerbi/Dashboard.png)
 
 ---
 
